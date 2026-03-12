@@ -1,1 +1,3 @@
 As a part of an article I'm writing about the impacts of fullbacks playing on their wrong sides (available at https://substack.com/@scnate3), I wanted to learn K-Means clustering in order to examine how passing patterns change depending on whether fullbacks play on their strong or weak sides. 
+
+Some of my files were too large to port to GitHub, happy to share if needed. 
